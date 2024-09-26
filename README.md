@@ -16,7 +16,8 @@ Zomato Dataset: Patterns between restaurant ratings and cost, popular cuisines i
 Black Friday Sales Dataset: Identification of top customer segments, analysis of high-revenue product categories, and insights into the purchasing habits during sales events.
 Tech Stack:
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-Jupyter Notebook
+Jupyter Notebook![Untitled design](https://github.com/user-attachments/assets/f4bfcace-1624-49a3-9cb2-a7721e774563)
+
 Feel free to explore the project and its findings in the notebooks provided. This project is part of my ongoing work to understand and analyze real-world datasets to drive meaningful conclusions and decision-making.
 
 
